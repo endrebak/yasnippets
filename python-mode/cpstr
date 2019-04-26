@@ -1,0 +1,5 @@
+#key : cpstr
+#name : from libcpp.string cimport string
+#contributor: Endre Bakken Stovner <endrebak85@gmail.com>
+# --
+from libcpp.string cimport string

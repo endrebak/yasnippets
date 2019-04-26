@@ -1,1 +1,5 @@
+#key : db
+#name : from pydbg import dbg; dbg()
+#contributor: Endre Bakken Stovner <endrebak85@gmail.com>
+# --
 from pydbg import dbg; dbg($0)

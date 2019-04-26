@@ -1,0 +1,5 @@
+#key : tc
+#name : pd.to_csv($0, sep="\t")
+#contributor: Endre Bakken Stovner <endrebak85@gmail.com>
+# --
+pd.to_csv(${0:output[0]}, sep="\t")

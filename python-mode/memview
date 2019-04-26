@@ -1,0 +1,8 @@
+#key : mv
+#name : create numpy array and memoryview in Cython
+#contributor: Endre Bakken Stovner <endrebak85@gmail.com>
+# --
+$1_arr = np.zeros($2, dtype=${3:long})
+cdef $3 [::1] $1
+$1 = $1_arr
+$0

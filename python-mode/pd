@@ -1,0 +1,5 @@
+#key : pd
+#name : import pandas as pd
+#contributor: Endre Bakken Stovner <endrebak85@gmail.com>
+# --
+import pandas as pd

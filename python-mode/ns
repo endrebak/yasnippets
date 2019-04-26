@@ -1,0 +1,5 @@
+#key : ns
+#name : from natsorted import natsort
+#contributor: Endre Bakken Stovner <endrebak85@gmail.com>
+# --
+from natsorted import natsort

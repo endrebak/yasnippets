@@ -1,0 +1,5 @@
+#key : rt
+#name : pd.read_csv($0, sep="\t")
+#contributor: Endre Bakken Stovner <endrebak85@gmail.com>
+# --
+pd.read_csv(${0:input[0]}, sep="\t")

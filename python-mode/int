@@ -1,0 +1,5 @@
+#key : ci
+#name : from libc.stdint cimport int32_t
+#contributor: Endre Bakken Stovner <endrebak85@gmail.com>
+# --
+from libc.stdint cimport int32_t

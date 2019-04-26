@@ -1,0 +1,5 @@
+#key : cpv
+#name : from libcpp.vector cimport vector
+#contributor: Endre Bakken Stovner <endrebak85@gmail.com>
+# --
+from libcpp.vector cimport vector
